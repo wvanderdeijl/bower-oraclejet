@@ -1,6 +1,3 @@
-# bower-oraclejet
-Bower and npm package for Oracle JavaScript Extension Toolkit (JET)
-
 # packaged oraclejet
 
 This repo is for distribution on `npm` and `bower`. The source for this module is in the
