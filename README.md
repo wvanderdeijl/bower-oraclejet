@@ -35,7 +35,7 @@ Or `require('oraclejet')` from your code.
 ### bower
 
 ```shell
-bower install angular
+bower install oraclejet
 ```
 
 Then add a `<script>` to your `index.html`:
